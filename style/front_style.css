@@ -1,0 +1,156 @@
+*{
+	font-family: Verdana, Arial, sans-serif;
+}
+
+
+main{
+	color: white;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(330deg,rgb(94, 4, 94),#5758BB);
+	padding: 10px;
+}
+
+.right{
+	position: absolute;
+	right: 15%;
+	top: 50% ;
+	font-size: 500px;
+	transition: 0.3s;
+	transform: translate(-50%,-50%);
+	opacity: 0.6;
+	z-index: -20;
+}
+
+.right i{
+	transition: .2s;	
+transform: rotate(180deg);
+
+}
+
+
+.right:hover i{
+	transform: rotate(360deg);
+}
+
+
+
+
+
+main .heading h1{
+	text-align: center;
+	text-transform: uppercase;
+	width: 100%;
+	transition: .1s;
+	cursor: pointer;
+	position: relative;
+}
+
+main .heading h1:after{
+	content: "";
+	position: absolute;
+	left: 22%;
+	bottom: -15%;
+	background: white;
+	width: 0%;
+	height: 5px; 
+	transition:width .3s cubic-bezier(0.64, -0.02, 0.58, 1.18);
+}
+
+main .heading h1:hover:after{
+	width: 56%;
+}
+
+
+main .heading h1:hover{
+letter-spacing: 4px;
+}
+
+main .firstinfo{
+	background: rgba(0, 0, 0, 0.6);
+	width: 30%;
+	height: 60%;
+	margin: 20px;
+	margin-block: 80px;
+	border-radius: 10px;
+	z-index: 0;
+	transition: .3s;
+	text-align: center;
+}
+
+main .firstinfo:hover{
+	background: rgba(0, 0, 0, 0.9);
+	width: 35%;
+	height: 65%;
+	transform: skewY(10deg);
+	border: none;
+}
+
+
+main .secondinfo{
+	background: rgba(260, 260, 260, 0.6);
+	width: 30%;
+	height: 60%;
+	position: absolute;
+	top: 30%;
+	left: 25%;
+	border-radius: 10px;
+	z-index: -1;
+	transition: .3s;
+	text-align: center;
+}
+
+h3{
+	margin-block: 10px;
+}
+
+main .secondinfo:hover{
+	width: 35%;
+	height: 65%;
+	background: rgba(260, 260, 260, 0.9);
+	z-index: 1;
+    transform: skewY(-10deg);
+    border: none;
+
+}
+
+main button{
+	position: absolute;
+	right: 5%;
+	top: 60%;
+	padding: 15px;
+	outline: none;
+	border: none;
+	opacity: 0.6;
+	border: 2px solid black;
+	width: 20%;
+	height: 13%;
+	background: linear-gradient(330deg,rgb(94, 4, 94),#5758BB);
+	transition: .2s;
+}
+
+main button:hover{
+	width: 23%;
+	height: 15%;
+	opacity: 1;
+}
+
+
+main button a{
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+	text-transform: uppercase;
+	opacity: 0.6;
+	transition: .3s;
+}
+
+main button:hover a{
+letter-spacing: 5px;
+font-size: 16px;
+opacity: 1;
+}
+
