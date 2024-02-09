@@ -2,12 +2,12 @@
 
 ## Screenshots
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/M9Usman/SuperTycoon/assets/111625687/008426e7-3966-4bbd-a1c4-45ec2cb8bdfa" alt="Screenshot 1" style="width: 200px; margin: 10px;">
-    <img src="https://github.com/M9Usman/SuperTycoon/assets/111625687/4d0eccff-fccf-4536-9323-1b74af3c4479" alt="Screenshot 2" style="width: 200px; margin: 10px;">
-    <img src="https://github.com/M9Usman/SuperTycoon/assets/111625687/76055152-a110-4fa9-801d-4cc6db8d4064" alt="Screenshot 3" style="width: 200px; margin: 10px;">
-    <img src="https://github.com/M9Usman/SuperTycoon/assets/111625687/47092102-6cbb-45fb-a0a7-f9e7da419f6c" alt="Screenshot 4" style="width: 200px; margin: 10px;">
-    <img src="https://github.com/M9Usman/SuperTycoon/assets/111625687/8b340970-9977-4740-8b2d-b79b58a8c747" alt="Screenshot 5" style="width: 200px; margin: 10px;">
-    <img src="https://github.com/M9Usman/SuperTycoon/assets/111625687/ffe032a6-e905-44c1-93ca-293a3ed47f46" alt="Screenshot 6" style="width: 200px; margin: 10px;">
+    <img src="https://github.com/M9Usman/SuperTycoon/assets/111625687/008426e7-3966-4bbd-a1c4-45ec2cb8bdfa" alt="Screenshot 1" style="width: 200px; margin: 10px; height:250px;">
+    <img src="https://github.com/M9Usman/SuperTycoon/assets/111625687/4d0eccff-fccf-4536-9323-1b74af3c4479" alt="Screenshot 2" style="width: 200px; margin: 10px; height:250px;">
+    <img src="https://github.com/M9Usman/SuperTycoon/assets/111625687/76055152-a110-4fa9-801d-4cc6db8d4064" alt="Screenshot 3" style="width: 200px; margin: 10px; height:250px;">
+    <img src="https://github.com/M9Usman/SuperTycoon/assets/111625687/47092102-6cbb-45fb-a0a7-f9e7da419f6c" alt="Screenshot 4" style="width: 200px; margin: 10px; height:250px;">
+    <img src="https://github.com/M9Usman/SuperTycoon/assets/111625687/8b340970-9977-4740-8b2d-b79b58a8c747" alt="Screenshot 5" style="width: 200px; margin: 10px; height:250px;">
+    <img src="https://github.com/M9Usman/SuperTycoon/assets/111625687/ffe032a6-e905-44c1-93ca-293a3ed47f46" alt="Screenshot 6" style="width: 200px; margin: 10px; height:250px;">
 </div>
 
 ## Introduction
